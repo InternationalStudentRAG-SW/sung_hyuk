@@ -42,7 +42,6 @@ node_modules/
 
 # Data and logs
 data/chroma_db/
-data/documents/
 logs/
 *.log
 
